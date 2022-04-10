@@ -1,0 +1,10 @@
+/target/
+/.settings/
+.classpath
+.project
+.springBeans
+/src/main/resources/public/docs/
+
+.idea
+wicket-spring-boot-starter-example.iml
+src/main/resources/logback.xml
